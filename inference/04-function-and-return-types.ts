@@ -2,3 +2,4 @@
     {
       return a + b; // Inferred as number
     }
+    
