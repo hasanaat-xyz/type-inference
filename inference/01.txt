@@ -1,1 +1,5 @@
-TypeScript's type inference is its ability to automatically determine and assign types to variables, function return values, and expressions based on their assigned values and usage within the code, without requiring explicit type annotations. This feature reduces the need for verbose type declarations while still providing the benefits of type safety. 
+TypeScript's type inference is its ability to automatically determine and assign types to variables, 
+function return values, 
+and expressions based on their assigned values and usage within the code, 
+without requiring explicit type annotations. 
+This feature reduces the need for verbose type declarations while still providing the benefits of type safety. 
