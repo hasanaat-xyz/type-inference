@@ -1,6 +1,7 @@
     let greeting = "Hello, world!"; // Inferred as string
     const age = 30; // Inferred as 30 (literal type for const)
     let score = 100; // Inferred as number
+    
     // variable declaration in typescript:
     //Variable Declarations: When a variable is declared and assigned an initial value, 
     //TypeScript infers its type based on that value.
