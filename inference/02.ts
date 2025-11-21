@@ -1,5 +1,4 @@
     let greeting = "Hello, world!"; // Inferred as string
-    
     const age = 30; // Inferred as 30 (literal type for const)
     let score = 100; // Inferred as number
 
