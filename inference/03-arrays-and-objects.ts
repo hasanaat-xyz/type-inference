@@ -4,5 +4,4 @@
     let user = {
       name: "Alice",
       age: 25,
-      
     }; // Inferred as { name: string; age: number; }
