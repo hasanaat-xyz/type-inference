@@ -1,4 +1,5 @@
-    let greeting = "Hello, world!"; 
+    let greeting = "Hello, world!";
+     
     // Inferred as string
     const age = 10;
          // Inferred as 
