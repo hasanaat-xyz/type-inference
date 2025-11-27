@@ -5,5 +5,6 @@
          // 30 (literal type for const)
     let score = 10000;
     // Inferred as number
+    
     //Variable Declarations: When a variable is declared and assigned an initial value, 
     //TypeScript infers its type based on that value.
